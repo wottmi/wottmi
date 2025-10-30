@@ -34,7 +34,7 @@
 
 ###
 
-<img align="left" height="130" src="Wife.jpg/>
+<img align="left" height="130" src="wife.jpg"  />
 
 ###
 
