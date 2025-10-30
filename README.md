@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1183464613262663751/1422539460071133275/96d103f6c87cabb23e48be1175d8c99c.jpg?ex=68dd0a9c&is=68dbb91c&hm=6c7e2f3411039bd26ad051755d5780387ec5bdcf332de7bbfef1c2d25f4d727d&"  />
+<img align="right" height="150" src="Reiji.jpg"  />
 
 ###
 
