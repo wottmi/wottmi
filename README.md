@@ -11,7 +11,7 @@
 ###
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranjlxyz.pranjlxyz&left_color=gray&right_color=black&left_text=Stan"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranjlxyz.pranjlxyz&left_color=gray&right_color=black&left_text=Visitors"  />
 </div>
 
 ###
