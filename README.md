@@ -34,7 +34,7 @@
 
 ###
 
-<img align="left" height="130" src="https://cdn.discordapp.com/attachments/1183464613262663751/1422550743096754216/990b0a71142dd396acc12d5b203c10a2.jpg?ex=68dd151e&is=68dbc39e&hm=bb0e7cd9d82c2a732c11688ad2991eeca6810554a6761b712a58c9c2bde16917&"  />
+<img align="left" height="130" src="Wife.jpg/>
 
 ###
 
