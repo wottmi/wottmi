@@ -38,7 +38,7 @@
 
 ###
 
-<img align="left" height="130" src="https://media.discordapp.net/attachments/1183464613262663751/1422550757344936037/b86d8107134f734b2e28356d69a8b8a0.jpg?ex=68dd1522&is=68dbc3a2&hm=417854ba994347c36ef1db6e1f5327d969945110bbe76970d0ca0b84b3c86266&=&format=webp&width=919&height=921"  />
+<img align="left" height="130" src="Reze.jpg"  />
 
 ###
 
